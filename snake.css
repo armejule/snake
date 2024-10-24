@@ -7,7 +7,10 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
-    color:orange;
+    color:black;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 #Counter{
     color:orange;
