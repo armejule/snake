@@ -1,5 +1,6 @@
 body{
     background-color: aliceblue;
+    background-image: url(\snakegithub\snakearne\snake\candies.jpg);
     text-align: center;
     margin: 0;
     padding:0;
@@ -23,6 +24,3 @@ h1{
     font-weight: bolder;
 }
 
-body{
-    background-image: url(/candies.jpg);
-}
