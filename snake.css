@@ -6,17 +6,17 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
-    color:aquamarine;
+    color:orange;
 }
 #Counter{
-    color:aquamarine;
+    color:orange;
     text-align: center;
 }
 
 #Start{
     background-color: aliceblue;
-    color:aquamarine;
-    border-color: aquamarine;
+    color:orange;
+    border-color: orange;
     border-radius: 10px;
     width:75px;
     height: 25px;
