@@ -22,3 +22,7 @@ h1{
     height: 25px;
     font-weight: bolder;
 }
+
+body{
+    background-image: url();
+}
