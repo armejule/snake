@@ -50,7 +50,7 @@ function update() {
     context.fillStyle = "black";
     context.fillRect(0, 0, board.width, board.height);
 
-    context.fillStyle = "aquamarine";
+    context.fillStyle = "orange";
     for (let segment of snakeBody) {
         context.fillRect(segment[0], segment[1], blockSize, blockSize);
     }
